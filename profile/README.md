@@ -25,7 +25,10 @@
 
 
 ## 팀원 구성
-
+## Team
+|<img src="https://avatars.githubusercontent.com/u/163953938?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/132132524?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/136600208?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154653812?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/163940532?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/164159618?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/163953803?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[@hyeon12](https://github.com/hyeon12)|[@heyejiyang](https://github.com/heyejiyang)|[@kth232](https://github.com/kth232)|[@soeunl](https://github.com/soeunl)|[@siwon9](https://github.com/siwon9)|[@Yunda0204](https://github.com/Yunda0204)|[@beom33](https://github.com/beom33)|
 ## 역할 분담
 
 ## 2. 기술 스택
