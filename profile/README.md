@@ -36,6 +36,15 @@
 |[@hyeon12](https://github.com/hyeon12)|[@heyejiyang](https://github.com/heyejiyang)|[@kth232](https://github.com/kth232)|[@soeunl](https://github.com/soeunl)|[@siwon9](https://github.com/siwon9)|[@Yunda0204](https://github.com/Yunda0204)|[@beom33](https://github.com/beom33)|
 ## 역할 분담
 
+|개발자|UI|기능|
+|------|---|---|
+|서정현|테스트2|테스트3|
+|양예지|테스트2|테스트3|
+|강태현|테스트2|테스트3|
+|이소은|테스트2|테스트3|
+|최시원|테스트2|테스트3|
+|이진표|테스트2|테스트3|
+|유준범|테스트2|테스트3|
 ## 2. 기술 스택
 
 ✅ Programming Languages
