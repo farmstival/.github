@@ -77,9 +77,11 @@
 ## 4. 기능 명세서
 📄[기능명세서](https://www.notion.so/c9d367c479054e918154883713dd2164?pvs=4)
 
-![image](https://github.com/user-attachments/assets/024778f6-833f-4562-bd62-6c98e15b3b42)
+![image](https://github.com/user-attachments/assets/3817d092-281e-49f4-a7b2-c3d494cf8098)
 
-![image](https://github.com/user-attachments/assets/bda8d0e4-eb92-4f2b-975d-f4193eaafd57)
+
+![image](https://github.com/user-attachments/assets/c4b20239-b600-4ade-b09d-4f21cccaa65c)
+
 
 
 ## 5. ERD
