@@ -109,7 +109,8 @@
 
 - 관리자
 
-  
+![GIFMaker_me (6)](https://github.com/user-attachments/assets/cb2150f3-778c-4175-aabd-8aae39c7d9c4)
+
 
 ## 7. 프로젝트 회고
 
