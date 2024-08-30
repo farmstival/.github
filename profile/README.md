@@ -91,6 +91,26 @@
 
 ## 6. 화면설계
 
+- 메인페이지
+  
+![GIFMaker_me (2)](https://github.com/user-attachments/assets/1069fa6f-92af-4669-b86c-14346694b74e)
+
+- 예약 페이지
+
+![GIFMaker_me (3)](https://github.com/user-attachments/assets/475ae6cb-abeb-472c-a796-05dc64ff681c)
+
+- 여행, 축제 페이지
+  
+![GIFMaker_me (4)](https://github.com/user-attachments/assets/9c26eea6-149a-4184-9d11-9282549c7466)
+
+- 게시판
+  
+![GIFMaker_me (5)](https://github.com/user-attachments/assets/cd18abdf-d335-45b3-888a-72d9b2c3b118)
+
+- 관리자
+
+  
+
 ## 7. 프로젝트 회고
 
 <!--
