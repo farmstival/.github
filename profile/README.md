@@ -88,6 +88,7 @@
 
 
 ## 5. ERD
+![farm_chon](https://github.com/user-attachments/assets/76e8731a-15ac-41b6-a1f1-d81249a20a3f)
 
 ## 6. 테이블 다이어그램
 
