@@ -87,7 +87,7 @@
 
 
 ## 5. ERD
-![farm_chon](https://github.com/user-attachments/assets/76e8731a-15ac-41b6-a1f1-d81249a20a3f)
+![farmstival](https://github.com/user-attachments/assets/39925f85-bc8f-43de-bda7-742b7a618104)
 
 ## 6. 화면설계
 
