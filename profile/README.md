@@ -124,7 +124,7 @@
 ![image](https://github.com/user-attachments/assets/a4d9c57b-3176-4180-8ef6-5403222f6e16)
 
 ### 추가 자료
-[회의록]()링크추가하기
+[회의록](https://www.notion.so/27f886bdbc9e49a1888fb0adee7c154e?v=0bb8fce285774602a4273a9136e040fe&pvs=4)
 
 
 <!--
