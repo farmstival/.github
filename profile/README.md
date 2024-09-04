@@ -126,6 +126,7 @@
 ### 추가 자료
 [회의록](https://www.notion.so/27f886bdbc9e49a1888fb0adee7c154e?v=0bb8fce285774602a4273a9136e040fe&pvs=4)
 
+[발표ppt](https://github.com/user-attachments/files/16869152/ppt_.pdf)
 
 <!--
 
